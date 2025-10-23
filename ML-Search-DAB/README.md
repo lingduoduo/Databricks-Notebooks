@@ -145,7 +145,3 @@ The Lifion Search ETL pipeline processes data through several stages, ensuring e
 For Databricks asset bundles documentation and CI/CD configuration: 
 
 https://docs.databricks.com/dev-tools/bundles/index.html
-
-For One Data related documentation: 
-
-https://docs.onedata.us.caas.oneadp.com/frameworks/onedatacicd/concept/deploy-databricks_assert_bundles/
